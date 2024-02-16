@@ -1,0 +1,14 @@
+.app {
+  height: 100vh;
+  background-image: url(https://www.hollywoodreporter.com/wp-content/uploads/2022/03/coachella-music-festival-2019-H-MAIN-022.jpg?w=1080);
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
